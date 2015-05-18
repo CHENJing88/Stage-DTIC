@@ -21,7 +21,7 @@ Le périmètre des déploiements des configurations :
 － la configuration des firewalls
 
 ==================================================
-Copyright (C) 2015 Jing CHEN dianachenfr@gmail.com
+Copyright (C) 2015 Jing CHEN dianachenfr@gmail.com, Laurent BEUNECHE laurent.beuneche@univ-tours.fr.
 
 UNIVERSITE FRANCOIS RABELAIS DTIC, 37200 Tours, France.
 
